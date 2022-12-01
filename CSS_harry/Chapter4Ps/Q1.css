@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.navbar{
+    background-color: black;
+    height: 50px;
+    color: white;
+}
+.navbar ul li a{
+    color: white;
+    text-decoration:none ;
+}
+.navbar>ul>li{
+    display: inline-block;
+    margin: 10px;
+    font-size: 20px;
+}
+.left{
+    background-color: red;
+    display: inline-block;
+    width: 49%;
+    height: 90vh;
+
+}
+.right{
+    height: 60vh;
+    background-color: green;
+    display: inline-block;
+    width: 50%;
+    height: 90vh;
+}
+.footer{
+    background-color:black;
+    color: white;
+    text-align: center;
+    height: 100px;
+    text-transform: uppercase;
+}

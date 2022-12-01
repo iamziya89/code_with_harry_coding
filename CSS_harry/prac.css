@@ -1,0 +1,18 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.box1{
+    height: 431px;
+    width: 334px;
+    background-color: red;
+    visibility: hidden;
+    margin-top: 20px;
+    
+}
+.box2{
+    height:431px ;
+    width: 434px;
+    background-color: rgb(112, 88, 208);
+    display: inline-block;
+}

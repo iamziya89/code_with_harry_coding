@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+/* .box1{
+    display: inline;
+    width: 431px;
+    height: 1135px;
+    background: red;
+    margin: 20px;
+    
+}
+.box2{
+    width: 431px;
+    height: 1135px;
+    background: rgb(66, 54, 227);
+    display: inline;
+} */
+
+p{
+    background-color: red;
+    width: 534px;
+    height: 415px;
+    color: white;
+    /* text-decoration: underline; */
+    /* text-transform: none; */
+    /* line-height: 0.1px; */
+    
+
+}
